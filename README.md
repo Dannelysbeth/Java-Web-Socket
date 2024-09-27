@@ -1,1 +1,1 @@
-simple chat using web socket 
+Web Socket Chat with Java
